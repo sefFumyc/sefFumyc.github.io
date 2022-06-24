@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://seffumyc.xyz</id>
+    <title>百花庭园废墟</title>
+    <updated>2022-06-24T17:26:17.509Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://seffumyc.xyz"/>
+    <link rel="self" href="https://seffumyc.xyz/atom.xml"/>
+    <subtitle>过去，昨天，更远的昨天。</subtitle>
+    <logo>https://seffumyc.xyz/images/avatar.png</logo>
+    <icon>https://seffumyc.xyz/favicon.ico</icon>
+    <rights>All rights reserved 2022, 百花庭园废墟</rights>
+    <entry>
+        <title type="html"><![CDATA[➕修炼瞄准Day13]]></title>
+        <id>https://seffumyc.xyz/post/ZRGZC2V30/</id>
+        <link href="https://seffumyc.xyz/post/ZRGZC2V30/">
+        </link>
+        <updated>2022-06-12T04:33:48.000Z</updated>
+        <content type="html"><![CDATA[<p>今日项目 | All<br>
+明日项目 | Static</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😐孤单了咋办呢？]]></title>
+        <id>https://seffumyc.xyz/post/9lqaow1B7/</id>
+        <link href="https://seffumyc.xyz/post/9lqaow1B7/">
+        </link>
+        <updated>2022-06-11T17:44:38.000Z</updated>
+        <content type="html"><![CDATA[<p>自己的话其实还好，习惯自己窝着不出门了，因为我不想跟不认识的人打交道。只是想知道自己认识的人孤单了该怎么办，不想要那些去陪他之类的刻板答案，因为他们在这种时候未必就想看见我，我能做的很多时候只是让他一个人静静……<br>
+啊怎么成死链了越想越怪……</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[发现了自己实战手抖的问题来源]]></title>
+        <id>https://seffumyc.xyz/post/d_xG17SOC/</id>
+        <link href="https://seffumyc.xyz/post/d_xG17SOC/">
+        </link>
+        <updated>2022-05-31T12:27:24.000Z</updated>
+        <content type="html"><![CDATA[<p>一方面是自己紧张吧，这种问题一旦自己意识到就会得到有效克制。<br>
+另一方面是，我以前没在意支点的问题，定位追踪的时候轻飘飘的，太不稳定，将手掌根到手腕处稍用力抵住垫子，不仅更符合手的结构，没那么扭曲，更是解决了瞄准不稳定的问题。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[换新显卡后，侦察行动破120了~]]></title>
+        <id>https://seffumyc.xyz/post/XFKw2rBmR/</id>
+        <link href="https://seffumyc.xyz/post/XFKw2rBmR/">
+        </link>
+        <updated>2022-05-30T08:09:46.000Z</updated>
+        <content type="html"><![CDATA[<p>帧生成时间比当时720P还稳定，也看得更清楚了，感觉还能再突破。<br>
+<img src="https://seffumyc.xyz/post-images/1653898243123.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随着左手握力的增强，解锁解锁：翻锅~]]></title>
+        <id>https://seffumyc.xyz/post/D6-2OZrbV/</id>
+        <link href="https://seffumyc.xyz/post/D6-2OZrbV/">
+        </link>
+        <updated>2022-05-28T13:34:36.000Z</updated>
+        <content type="html"><![CDATA[<p>今晚煎豆腐那会儿试了一下，发现自己做饭半个多月以来，已经逐渐能直接把整锅东西直接翻面了，虽然两三种菜一通操作下来握力会逐渐不支……不过日后会力量会逐渐够用的吧。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[啊啊啊啊完蛋完蛋完蛋，渲染不出来了！]]></title>
+        <id>https://seffumyc.xyz/post/7UXONEp60/</id>
+        <link href="https://seffumyc.xyz/post/7UXONEp60/">
+        </link>
+        <updated>2022-05-27T04:12:31.000Z</updated>
+        <content type="html"><![CDATA[<p>我前一天晚上发现渲染的末尾出bug，最后一枪缩放太不明显，然后改了改，顺便弄个4K啥的……<br>
+问题就出在第二天早上我把1050Ti寄出去了，这一寄，就直接寄了，AE进渲染界面不跑条了……真的无语了，得赶紧入别的卡！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被显卡搞得有点小烦躁]]></title>
+        <id>https://seffumyc.xyz/post/F64svuWWF/</id>
+        <link href="https://seffumyc.xyz/post/F64svuWWF/">
+        </link>
+        <updated>2022-05-25T05:05:00.000Z</updated>
+        <content type="html"><![CDATA[<p>想出掉1050ti换1070，想了想那卡年代太久且是电老虎就转头想买1660之类的，但是那种更贵且是挖矿主力军，所谓的自用也不知道是不是自用，个人卖家也不太敢信，烦哦！<br>
+而且50ti出掉只有600左右的钱，要买的卡得一千出头，我是有钱填上这个空缺没错啦，但是买完卡就没钱买电源了……</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[突然觉得，真的是半夜比较适合剪辑哦]]></title>
+        <id>https://seffumyc.xyz/post/b8aB97lGk/</id>
+        <link href="https://seffumyc.xyz/post/b8aB97lGk/">
+        </link>
+        <updated>2022-05-24T18:53:01.000Z</updated>
+        <content type="html"><![CDATA[<p>白天一般是录cine，打开AE也就没什么想法。一到，尤其是十二点后的深夜，晚上各种怪想法源源不断地来，但是得保持正常作息不能熬夜，得歇了。</p>
+<p>附一张5月6日做的图~<br>
+<img src="https://seffumyc.xyz/post-images/1653418784879.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sixshot终于突破10W了！]]></title>
+        <id>https://seffumyc.xyz/post/bOiMw_tNV/</id>
+        <link href="https://seffumyc.xyz/post/bOiMw_tNV/">
+        </link>
+        <updated>2022-05-24T12:42:24.000Z</updated>
+        <content type="html"><![CDATA[<p>早在年初好像就已经试过9.9k了，但是当时的平均分只有8000左右，而现在是均分过9000，玩一会儿就能出好几次9.5k，然后我就绷不住了，从昨晚开始刷，终于在今晚八点多成功拿下10.2k！<br>
+<img src="https://seffumyc.xyz/post-images/1653401764966.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
